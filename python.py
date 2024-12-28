@@ -1,5 +1,7 @@
-#relational operator
+#assignment operator
 a = 50
 b = 60
 
-print(a == b)
+a = b + 2
+
+print(a)
