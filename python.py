@@ -1,6 +1,5 @@
-#ternary operator
-food = "coke"
+#relational operator
+a = 50
+b = 60
 
-eat = "Yes" if food == "cake" else "No"
-
-print(eat)
+print(a == b)
