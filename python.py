@@ -1,7 +1,4 @@
-#assignment operator
-a = 50
-b = 60
+#python typeof 
+a = True
 
-a = b + 2
-
-print(a)
+print(type(a))
