@@ -1,6 +1,6 @@
-#string
+#string slice
 
 str1 = "Badsha"
 str2 = "Hossain"
 
-print(len(str1))
+print(str1[0:3])
