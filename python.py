@@ -1,4 +1,6 @@
-#python typeof 
-a = True
+#string
 
-print(type(a))
+str1 = "Badsha"
+str2 = "Hossain"
+
+print(str1 + str2)
