@@ -3,4 +3,4 @@
 str1 = "Badsha"
 str2 = "Hossain"
 
-print(str1[3:6])
+print(str1.endswith("ain"))
