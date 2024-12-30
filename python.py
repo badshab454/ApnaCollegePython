@@ -1,6 +1,8 @@
-#string count
 
-str1 = "badsha"
-str2 = "Hossain"
+#voter
+age = 17
 
-print(str1.count("d"))
+if (age >= 18): 
+    print("Voter")
+else:
+    print("Not a voter")
