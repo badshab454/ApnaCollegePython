@@ -1,4 +1,4 @@
-#string slice
+#string endswith
 
 str1 = "Badsha"
 str2 = "Hossain"
