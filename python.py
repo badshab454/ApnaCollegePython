@@ -1,8 +1,5 @@
+#list
 
-#voter
-age = 17
+marks = [90, 85, 88, 92, 89]
 
-if (age >= 18): 
-    print("Voter")
-else:
-    print("Not a voter")
+print(marks[0])
