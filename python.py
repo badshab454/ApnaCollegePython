@@ -1,5 +1,7 @@
 #list
 
-marks = [90, 85, 88, 92, 89]
+student = ["karan", 95.4, 17, "male", "Delhi"]
 
-print(marks[0])
+student[0] = "Badsha"
+
+print(student[3])
